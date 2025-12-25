@@ -42,4 +42,8 @@ body{
             border-collapse:collapse;
 
         }
+        .div1{
+            border:1px solid black;
+            width:40%
+        }
         
